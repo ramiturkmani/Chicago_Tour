@@ -1,11 +1,15 @@
 import React from 'react';
+import PLACESSpace from './PLACESSpace';
 
 function PLACESList() {
-  return (
-    <div>
-      <h1>Keep your eye on this place for future content...</h1>
-    </div>
-  )
+    return (
+        <div>
+            <PLACESSpace />
+            <PLACESSpace />
+            <PLACESSpace />
+            <PLACESSpace />
+        </div>
+    )
 }
 
 export default PLACESList
