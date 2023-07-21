@@ -1,5 +1,6 @@
 import React from 'react';
 import PLACESSpace from './PLACESSpace';
+import './PLACESList.css';
 
 function PLACESList() {
     return (
