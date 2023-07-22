@@ -3,9 +3,9 @@ import './Footer.css';
 
 function Footer() {
     return (
-        <div className="PLACESList">
+        <div className="Footer">
             <p>
-                Rami Turkmani CopyRight 2023
+                Rami Turkmani Copyright 2023
             </p>
         </div>
     )
